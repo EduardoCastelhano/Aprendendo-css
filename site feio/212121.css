@@ -1,0 +1,72 @@
+body{
+text-align: center;
+font-size: 30px;
+  background-image: url(/fca70b6d693a4b5e0081e5d194536bfd.gif);
+}
+
+
+}
+
+header{
+background-color: red;
+font-size: 30px;
+padding: 70px;
+
+}
+nav{
+margi;
+
+    
+}
+
+section {
+color: rgb(0, 95, 238);
+
+
+}
+
+
+section :hover{
+border-radius: 30px;
+transition: 1s;
+width: 10%;
+
+
+
+}
+
+table,th,td{
+background-color: palegoldenrod;
+color: transparent;
+border-bottom: 10px;
+
+}
+
+#ranking{
+background-color: chocolate;
+color: rgb(212, 5, 5);
+
+
+}
+
+
+#cadastro{
+background-image: url(/65bd465d2d14121bfeb35eb369442a8c.jpg);
+
+
+
+
+}
+#faq{
+    background-image: url(/21121212212\ burro.jpg);
+
+
+
+}
+
+#depoimentos{
+background-image: url(/gif.gif);
+ 
+
+
+}
